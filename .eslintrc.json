@@ -1,0 +1,25 @@
+{
+    "root": true,
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "parser": "esprima",
+    "env": {
+      "node": true,
+      "browser": true
+    },
+    "rules": {
+        "semi": "error",
+        "indent": ["error", 4],
+        "no-extra-boolean-cast": "error",
+        "no-cond-assign": "error",
+        "no-var": "error",
+        "no-console": "off",
+        "no-debugger": "off"
+    },
+    "globals":{
+
+    },
+    "extends": "eslint:recommended"
+}

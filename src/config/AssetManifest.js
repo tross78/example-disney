@@ -1,0 +1,60 @@
+const AssetManifest = {
+    spritesheets: [
+        "sparkle_touch",
+        "kiteJsonData",
+        "kiteShine",
+        "pathTip",
+        "starBurn",
+        "starBurnSmall",
+        "gesturetiper_star_burst",
+        "gesturetiper_star_little_1",
+        "gesturetiper_star_little_2",
+        "gesturetiper_star_little_3"
+    ],
+    audio: [
+        "title",
+        "playIntro",
+        "Ambience",
+        "Interrupt_1",
+        "Interrupt_2",
+        "Interrupt_3",
+        "Select",
+        "Spray",
+        "Success",
+        "music"
+    ],
+    images: [
+        "bangzhu",
+        "help1",
+        "hand",
+        "bg",
+        "button_handle",
+        "char_kite",
+        "line",
+        "eight",
+        "eight_2",
+        "eight3",
+        "eight4",
+        "frame",
+        "frame_2",
+        "frame2",
+        "frame4",
+        "S",
+        "S2",
+        "s_2",
+        "S4",
+        "trangle",
+        "trangle_2",
+        "trangle2",
+        "trangle4",
+        "help_new",
+        "help_trangle",
+        "help_s",
+        "help_8",
+        "help_frame",
+        "particle",
+        "gesturetiper_hand"
+
+    ]
+};
+export default AssetManifest;

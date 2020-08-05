@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "1-2.png",
+	"frame": {"x":0,"y":0,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "2-2.png",
+	"frame": {"x":307,"y":0,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "3-2.png",
+	"frame": {"x":614,"y":0,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "4-2.png",
+	"frame": {"x":921,"y":0,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "5-2.png",
+	"frame": {"x":1228,"y":0,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "6-2.png",
+	"frame": {"x":0,"y":600,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "7-2.png",
+	"frame": {"x":307,"y":600,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "8-2.png",
+	"frame": {"x":614,"y":600,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "9-2.png",
+	"frame": {"x":921,"y":600,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+},
+{
+	"filename": "10-2.png",
+	"frame": {"x":1228,"y":600,"w":307,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":600},
+	"sourceSize": {"w":307,"h":600}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "kiteShine.png",
+	"format": "RGBA8888",
+	"size": {"w":1535,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ffadf6ab9eece463a04d1340b41e14de:ff31999152d5bb1c9e3d3d081e1c131b:5ef527b12854770d1abcc3be0cb7042c$"
+}
+}
